@@ -11,7 +11,7 @@ A lightweight, premium-looking desktop application for Windows to rip Audio CDs 
 
 If you just want to rip your CDs and don't want to deal with code, Python, or terminal commands, you can download the ready-to-run Windows application immediately:
 
-1. **Download**: Go to the **Releases** section of this repository and download the latest `cd_ripper.exe` file.
+1. **Download**: Go to the **Releases** section of this repository and download the latest `cd_ripper.exe` file. Or download it here: https://github.com/Stunner070/cd_ripper/releases/download/Full_Release_EXE/cd_ripper.exe
 2. **Launch**: Double-click `cd_ripper.exe` to open the application!
 
 > [!IMPORTANT]
