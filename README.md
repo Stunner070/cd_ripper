@@ -7,6 +7,24 @@ A lightweight, premium-looking desktop application for Windows to rip Audio CDs 
 
 ---
 
+## 📥 Download & Run (No Coding Required!)
+
+If you just want to rip your CDs and don't want to deal with code, Python, or terminal commands, you can download the ready-to-run Windows application immediately:
+
+1. **Download**: Go to the **Releases** section of this repository and download the latest `cd_ripper.exe` file.
+2. **Launch**: Double-click `cd_ripper.exe` to open the application!
+
+> [!IMPORTANT]
+> **⚠️ Windows SmartScreen Alert:**
+> Because this is an open-source, indie-compiled program, Windows might show a blue warning popup saying *"Windows protected your PC"* when you first launch it.
+> *   **To run it**: Click **"More info"** on the popup, and then click **"Run anyway"**. This warning is completely normal for hobbyist software and will only ask you once!
+>
+> **⚡ First-Run Auto Setup:**
+> On the very first run, the app will automatically create a `bin/` directory right next to `cd_ripper.exe` and download the necessary `fre:ac` converter engine (approx. 15MB). This takes only a few seconds, and once completed, the app will open instantly on all future launches!
+
+---
+
+
 
 ## ✨ Features
 
